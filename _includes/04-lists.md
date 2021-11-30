@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. hello
+2. hoaw are you
+3. are you ok
+4. byebye
+   1. good morning 
+   2. good after noon
+   * ok bye
