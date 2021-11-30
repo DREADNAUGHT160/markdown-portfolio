@@ -1,5 +1,5 @@
 1. hello
-2. hoaw are you
+2. how are you
 3. are you ok
 4. byebye
    1. good morning 
